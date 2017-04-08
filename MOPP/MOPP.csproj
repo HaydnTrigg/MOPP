@@ -35,6 +35,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Codes\MOPPCode.cs" />
+    <Compile Include="Codes\MOPPCode_0x01.cs" />
+    <Compile Include="Codes\MOPPCode_0x53.cs" />
     <Compile Include="MOPP.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
